@@ -1,0 +1,21 @@
+{
+  "name": "gitobj",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "wang",
+  "license": "MIT",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "parser": "^0.1.4",
+    "serve-favicon": "^2.3.0"
+  }
+}

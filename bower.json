@@ -1,0 +1,21 @@
+{
+  "name": "gitobj",
+  "description": "project",
+  "main": "index.js",
+  "authors": [
+    "wang"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "project"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ]
+}
