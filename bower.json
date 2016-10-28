@@ -17,5 +17,8 @@
     "public/vendor",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
 }
